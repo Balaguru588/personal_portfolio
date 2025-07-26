@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { FaDownload, FaEye } from "react-icons/fa";
 
 const ResumeSection = () => {
-  const resumePath = "/resume.pdf";
+  const resumePath = "/personal_portfolio/resume.pdf";
 
   return (
     <div className="border-b border-neutral-900 pb-4">
